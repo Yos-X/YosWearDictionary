@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">青燕辞典</string>
+    <string name="tips_input_keywords">输入查询内容</string>
+    <string name="nav_translate_result">翻译结果</string>
+    <string name="nav_dic_result">查词结果</string>
+    <string name="tips_translate_source">翻译结果由彩云小译提供</string>
+    <string name="tips_dic_source">查词结果由有道词典提供</string>
+    <string name="tips_not_allowed_empty">内容不能为空</string>
+    <string name="tips_request_error">请求出错</string>
+</resources>

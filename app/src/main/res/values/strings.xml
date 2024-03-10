@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YosWearDic</string>
+    <string name="tips_input_keywords">Input Keywords</string>
+    <string name="nav_translate_result">Translate</string>
+    <string name="nav_dic_result">Dictionary</string>
+    <string name="tips_translate_source">Translation provided by LingoCloud</string>
+    <string name="tips_dic_source">Word search results provided by Youdao Dictionary</string>
+    <string name="tips_not_allowed_empty">Keywords should not be empty</string>
+    <string name="tips_request_error">Request Error</string>
+
+</resources>
